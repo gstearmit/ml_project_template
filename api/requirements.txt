@@ -13,3 +13,4 @@ requests
 flask-cors
 pyopenssl
 gunicorn
+pillow>=8.3.0 # not directly required, pinned by Snyk to avoid a vulnerability
